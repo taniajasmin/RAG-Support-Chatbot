@@ -1,14 +1,14 @@
 # RAG Support Chatbot
 
-A Retrieval-Augmented Generation (RAG) powered chatbot that provides instant answers using structured and scraped data. Built with FastAPI, OpenAI GPT, and a custom web scraper.
+A Retrieval-Augmented Generation (RAG) chatbot for customer support, integrating structured data (pricing, contacts, teams, locations), website-scraped content, and a WhatsApp-inspired conversational style to provide accurate responses. Built with FastAPI, OpenAI GPT, and a custom web scraper.
 
 ## Table of Contents
 - [Features](#features)
+- [Demo Video](#demo-video)
 - [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Future Improvements](#future-improvements)
-- [Demo Video](#demo-video)
 - [License](#license)
 - [Contributing](#contributing)
 
@@ -21,7 +21,7 @@ A Retrieval-Augmented Generation (RAG) powered chatbot that provides instant ans
 
 ## Demo Video
 
-(https://drive.google.com/file/d/1MyXYNt1sIEkvzdXGJJ6kYqP7LIx4QH2O/view?usp=sharing)
+https://drive.google.com/file/d/1MyXYNt1sIEkvzdXGJJ6kYqP7LIx4QH2O/view?usp=sharing
 
 
 ## Project Structure
