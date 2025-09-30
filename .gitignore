@@ -1,0 +1,48 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.log
+
+# -------------------------
+# Virtual environments
+.env
+.venv/
+venv/
+ENV/
+env.bak/
+
+# -------------------------
+# Editors / IDEs
+.vscode/
+.idea/
+
+# -------------------------
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# -------------------------
+# Project-specific (cache + local data)
+chatbot/embeddings.jsonl
+chatbot/state.json
+chatbot/data/
+chatbot/style/examples_*.jsonl
+chatbot/style/phrases.json
+chatbot/style/style_guide.md
+
+# WhatsApp raw chat exports (sensitive)
+whatsapp/raw/
+whatsapp/*.txt
+
+# -------------------------
+# Frontend / Node
+node_modules/
+npm-debug.log
+
+# -------------------------
+# Databases / runtime files
+*.db
+*.sqlite3
+*.pid

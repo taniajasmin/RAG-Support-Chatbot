@@ -1,0 +1,132 @@
+[
+  {
+    "service": "MONOLITHIC ZIRCONIA",
+    "price": 1350000,
+    "price_raw": "IDR 1.350.000,",
+    "currency": "IDR",
+    "unit": "unit",
+    "lead_time": null,
+    "notes": "Our base product. Efficient in cost, value, and time.; Best for both anterior and posterior crown, bridges, inlay and onlay.",
+    "source_url": "https://zirmon.com/"
+  },
+  {
+    "service": "LITHIUM DISILICATE",
+    "price": 1500000,
+    "price_raw": "IDR 1.500.000,",
+    "currency": "IDR",
+    "unit": "unit",
+    "lead_time": null,
+    "notes": "Esthetic material for minimum invasive treatment plan. Bondable.; Best for veneers, inlay, onlay and single crown",
+    "source_url": "https://zirmon.com/"
+  },
+  {
+    "service": "VERIFICATION JIG (3D printed)",
+    "price": 100000,
+    "price_raw": "IDR 100.000,",
+    "currency": "IDR",
+    "unit": "unit",
+    "lead_time": null,
+    "notes": "To make things easier and sure, we believe a verification jig can be used during try in or cementing multiple restorations and implant abudments",
+    "source_url": "https://zirmon.com/"
+  },
+  {
+    "service": "porcelain layering (additional)",
+    "price": 450000,
+    "price_raw": "IDR 450.000,",
+    "currency": "IDR",
+    "unit": "unit",
+    "lead_time": null,
+    "notes": "Our signature additional service to enhance esthetic. Best to combine with zirconia for long bridges, single crown matching and anterior crowns with dark abudment",
+    "source_url": "https://zirmon.com/"
+  },
+  {
+    "service": "GUM LAYERING / PINK PORCELAIN (additional)",
+    "price": 450000,
+    "price_raw": "IDR 450.000,",
+    "currency": "IDR",
+    "unit": "unit",
+    "lead_time": null,
+    "notes": "Not only white is important in oral esthetic, but pink plays significant role as well. Huge resorption, bone loss, compromised soft tissue? We have the solution.",
+    "source_url": "https://zirmon.com/"
+  },
+  {
+    "service": "feldspathic",
+    "price": 3500000,
+    "price_raw": "IDR 3.500.000,",
+    "currency": "IDR",
+    "unit": "unit",
+    "lead_time": null,
+    "notes": "A very high end artistic work with a very sensitive technique Best for very thin veneers, prepless or non-prep.",
+    "source_url": "https://zirmon.com/"
+  },
+  {
+    "service": "wing / rest",
+    "price": 300000,
+    "price_raw": "IDR 300.000,",
+    "currency": "IDR",
+    "unit": "unit",
+    "lead_time": null,
+    "notes": "Some special cases that need reinforcement for stability, we can add wing or rest. Best for cantilever or maryland case.",
+    "source_url": "https://zirmon.com/"
+  },
+  {
+    "service": "digital wax up & 3d printing",
+    "price": 400000,
+    "price_raw": "IDR 400.000,",
+    "currency": "IDR",
+    "unit": "first 4 units",
+    "lead_time": null,
+    "notes": null,
+    "source_url": "https://zirmon.com/"
+  },
+  {
+    "service": "digital wax up & 3d printing (additional)",
+    "price": 100000,
+    "price_raw": "IDR 100.000,",
+    "currency": "IDR",
+    "unit": "unit",
+    "lead_time": null,
+    "notes": "We maximize the usage of digital technology to plan best treatment for you patient. This service include 4 units of wax up / arch",
+    "source_url": "https://zirmon.com/"
+  },
+  {
+    "service": "(PMMA)",
+    "price": 200000,
+    "price_raw": "IDR 200.000,",
+    "currency": "IDR",
+    "unit": "unit",
+    "lead_time": null,
+    "notes": "a fast solution for temporary and try in for high-risk case.",
+    "source_url": "https://zirmon.com/"
+  },
+  {
+    "service": "SURGICAL GUIDE",
+    "price": 400000,
+    "price_raw": "IDR 400.000,",
+    "currency": "IDR",
+    "unit": "first 4 cervical",
+    "lead_time": null,
+    "notes": null,
+    "source_url": "https://zirmon.com/"
+  },
+  {
+    "service": "SURGICAL GUIDE (additional)",
+    "price": 100000,
+    "price_raw": "IDR 100.000,",
+    "currency": "IDR",
+    "unit": "cervical",
+    "lead_time": null,
+    "notes": "For more predictable gingivectomy. Available in clear resin or white opaque resin.",
+    "source_url": "https://zirmon.com/"
+  },
+  {
+    "service": "implant processing fee (additional)",
+    "price": 200000,
+    "price_raw": "IDR 200.000,",
+    "currency": "IDR",
+    "unit": "implant",
+    "lead_time": null,
+    "notes": "When we go for implant restorations, we put extra effort to process the model, abudment adjusting, and gingival masking",
+    "source_url": "https://zirmon.com/"
+  }
+]

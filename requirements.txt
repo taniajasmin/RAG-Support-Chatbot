@@ -1,0 +1,6 @@
+requests>=2.32.3
+beautifulsoup4>=4.12.3
+tldextract>=5.1.2
+markdownify>=0.13.1
+python-dateutil>=2.9.0.post0
+tqdm>=4.66.4
